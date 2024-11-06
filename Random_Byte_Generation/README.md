@@ -18,4 +18,7 @@ answer.txt: Notes the type of data in challenge.bin:
 "Weak PRNG world": challenge.bin has weak data.
 
 ## Usage
-# Run: python random_generator.py
+### Run: 
+```bash
+python random_generator.py
+```
