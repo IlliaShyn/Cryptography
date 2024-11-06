@@ -1,5 +1,5 @@
-### Random Byte Generation Task
-## This script generates two large random byte files to illustrate the difference between cryptographically secure and insecure random generation methods.
+# Random Byte Generation Task
+### This script generates two large random byte files to illustrate the difference between cryptographically secure and insecure random generation methods.
 
 ## Overview
 Cryptographic Randomness: Generated using secrets.token_bytes, suitable for secure contexts.
