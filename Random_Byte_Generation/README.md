@@ -20,5 +20,5 @@ answer.txt: Notes the type of data in challenge.bin:
 ## Usage
 ### Run: 
 ```bash
-python random_generator.py
+python challenger.py
 ```
